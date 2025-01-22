@@ -1,4 +1,4 @@
-# fraud_detection_system
+# Fraud Detection System Prototype
 
 ## Setting Up and Running the App
 
